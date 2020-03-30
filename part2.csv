@@ -1,14 +1,14 @@
 fruit,country,season,price,quantity
-Apple,Singapore,Winter,5,30
-Banana,Germany,Winter,6,7
-Strawberry,Australia,Winter,3,9
-Apple,Malaysia,Winter,2,7
-Banana,New Zealand,Winter,5,25
-Apple,Mexico,Winter,8,12
-Banana,Germany,Summer,5,22
-Strawberry,Australia,Summer,2,30
-Apple,Malaysia,Summer,1,22
-Banana,New Zealand,Summer,4,28
-Strawberry,France,Summer,3,5
-Apple,Mexico,Summer,7,21
-Banana,China,Summer,1,21
+Apple,Singapore,Winter,0.5,30
+Banana,Germany,Winter,0.6,7
+Strawberry,Australia,Winter,0.3,9
+Apple,Malaysia,Winter,0.2,7
+Banana,New Zealand,Winter,0.5,25
+Apple,Mexico,Winter,0.8,12
+Banana,Germany,Summer,0.5,22
+Strawberry,Australia,Summer,0.2,30
+Apple,Malaysia,Summer,0.1,22
+Banana,New Zealand,Summer,0.4,28
+Strawberry,France,Summer,0.3,5
+Apple,Mexico,Summer,0.7,21
+Banana,China,Summer,0.1,21
